@@ -1,4 +1,4 @@
-# Github and git conflict 
+# Github and git conflict hello world
 
 # CSC4110-assignment1
 
