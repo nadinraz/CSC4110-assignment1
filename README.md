@@ -1,4 +1,4 @@
-# Github and git conflict hello world
+# Github and gift conflict test
 
 # CSC4110-assignment1
 
